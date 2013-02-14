@@ -1,1 +1,1 @@
-Made with love by Vadim Ogievetsky for Annie Albagli / Powered by Mike Bostock's D3
+http://love.flanker017.me
